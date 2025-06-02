@@ -1,6 +1,6 @@
 # Clone repository
-git clone https://github.com/yaya14387/Balnaza.my.id.git
-cd Balnaza.my.id
+git clone https://github.com/yaya14387/balnaza.my.id.git
+cd balnaza.my.id
 
 # Tambahkan file
 touch .nojekyll
